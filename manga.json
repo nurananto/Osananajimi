@@ -1,0 +1,43 @@
+{
+  "manga": {
+    "title": "Osananajimi ni Kage de Tsugou no Yoi Otoko Yobawari Sareta Ore wa, Koui wo Risetto Shite Futsuu ni Seishun o Okuritai",
+    "alternativeTitle": "幼馴染に陰で都合の良い男呼ばわりされた俺は、好意をリセットして普通に青春を送りたい",
+    "cover": "https://cdn.nuranantoscans.my.id/covers/Osananajimi.webp",
+    "description": "Hari itu, Toudou Tsuyoshi nge-'reset' semua perasaan yang selama ini dia tujukan ke teman masa kecilnya, Hanazono Hana. Dengan canggung tapi tetap ngotot pengen ngerasain masa muda yang 'normal',",
+    "author": "Nora Usagi",
+    "artist": "ReTake",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Slice of Life",
+      "Shounen",
+      "Drama"
+    ],
+    "status": "ONGOING",
+    "views": 0,
+    "links": {
+      "mangadex": "",
+      "raw": "https://www.manga-up.com/titles/1680"
+    },
+    "repoUrl": "https://raw.githubusercontent.com/nurananto/Osananajimi/main/",
+    "imagePrefix": "Image",
+    "imageFormat": "webp",
+    "lockedChapters": [],
+    "type": "manga"
+  },
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "chapter": 1,
+      "folder": "1",
+      "uploadDate": "2026-02-28T21:59:35+07:00",
+      "totalPages": 50,
+      "pages": 50,
+      "locked": false,
+      "views": 0
+    }
+  },
+  "lastUpdated": "2026-02-28T22:00:19+07:00",
+  "lastChapterUpdate": "2026-02-28T21:59:35+07:00"
+}
