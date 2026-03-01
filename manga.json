@@ -64,9 +64,9 @@
       "title": "Chapter 2.3",
       "chapter": 2.3,
       "folder": "2.3",
-      "uploadDate": "2026-03-01T13:00:03+07:00",
-      "totalPages": 0,
-      "pages": 0,
+      "uploadDate": "2026-03-01T13:42:23+07:00",
+      "totalPages": 10,
+      "pages": 10,
       "locked": true,
       "views": 0
     },
@@ -81,6 +81,6 @@
       "views": 0
     }
   },
-  "lastUpdated": "2026-03-01T13:00:03+07:00",
-  "lastChapterUpdate": "2026-03-01T13:00:03+07:00"
+  "lastUpdated": "2026-03-01T13:43:14+07:00",
+  "lastChapterUpdate": "2026-03-01T13:42:23+07:00"
 }
