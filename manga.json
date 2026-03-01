@@ -23,7 +23,10 @@
     "repoUrl": "https://raw.githubusercontent.com/nurananto/Osananajimi/main/",
     "imagePrefix": "Image",
     "imageFormat": "webp",
-    "lockedChapters": [],
+    "lockedChapters": [
+      "2.3",
+      "2.4"
+    ],
     "type": "manga"
   },
   "chapters": {
@@ -46,8 +49,38 @@
       "pages": 10,
       "locked": false,
       "views": 85
+    },
+    "2.2": {
+      "title": "Chapter 2.2",
+      "chapter": 2.2,
+      "folder": "2.2",
+      "uploadDate": "2026-03-01T12:59:16+07:00",
+      "totalPages": 10,
+      "pages": 10,
+      "locked": false,
+      "views": 0
+    },
+    "2.3": {
+      "title": "Chapter 2.3",
+      "chapter": 2.3,
+      "folder": "2.3",
+      "uploadDate": "2026-03-01T13:00:03+07:00",
+      "totalPages": 0,
+      "pages": 0,
+      "locked": true,
+      "views": 0
+    },
+    "2.4": {
+      "title": "Chapter 2.4",
+      "chapter": 2.4,
+      "folder": "2.4",
+      "uploadDate": "2026-03-01T13:00:03+07:00",
+      "totalPages": 0,
+      "pages": 0,
+      "locked": true,
+      "views": 0
     }
   },
-  "lastUpdated": "2026-02-28T19:00:33.933Z",
-  "lastChapterUpdate": "2026-02-28T23:26:41+07:00"
+  "lastUpdated": "2026-03-01T13:00:03+07:00",
+  "lastChapterUpdate": "2026-03-01T13:00:03+07:00"
 }
