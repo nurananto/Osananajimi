@@ -15,7 +15,7 @@
       "Drama"
     ],
     "status": "ONGOING",
-    "views": 0,
+    "views": 334,
     "links": {
       "mangadex": "",
       "raw": "https://www.manga-up.com/titles/1680"
@@ -35,9 +35,19 @@
       "totalPages": 50,
       "pages": 50,
       "locked": false,
-      "views": 0
+      "views": 163
+    },
+    "2.1": {
+      "title": "Chapter 2.1",
+      "chapter": 2.1,
+      "folder": "2.1",
+      "uploadDate": "2026-02-28T23:26:41+07:00",
+      "totalPages": 10,
+      "pages": 10,
+      "locked": false,
+      "views": 85
     }
   },
-  "lastUpdated": "2026-02-28T22:00:19+07:00",
-  "lastChapterUpdate": "2026-02-28T21:59:35+07:00"
+  "lastUpdated": "2026-02-28T19:00:33.933Z",
+  "lastChapterUpdate": "2026-02-28T23:26:41+07:00"
 }
