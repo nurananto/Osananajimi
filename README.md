@@ -13,9 +13,7 @@
 | Author | Nora Usagi |
 | Artist | ReTake |
 | Tipe | Manga (Hitam Putih) |
-| Status | Ongoing |
 | Genre | Comedy · Romance · School Life · Slice of Life · Shounen · Drama |
-| Chapter | 5 chapter (2 locked) |
 
 ## Link
 
