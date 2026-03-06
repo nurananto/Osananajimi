@@ -15,7 +15,7 @@
       "Drama"
     ],
     "status": "ONGOING",
-    "views": 17961,
+    "views": 18098,
     "links": {
       "mangadex": "https://mangadex.org/title/36cf3daf-9770-4f83-a69c-0d5971b5b43d/osananajimi-ni-kage-de-tsugou-no-yoi-otoko-yobawari-sareta-ore-wa-koui-o-reset-shite-futsuu-ni",
       "raw": "https://www.manga-up.com/titles/1680"
@@ -38,7 +38,7 @@
       "totalPages": 50,
       "pages": 50,
       "locked": false,
-      "views": 3329
+      "views": 3335
     },
     "2.1": {
       "title": "Chapter 2.1",
@@ -48,7 +48,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 3193
+      "views": 3200
     },
     "2.2": {
       "title": "Chapter 2.2",
@@ -58,7 +58,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 3233
+      "views": 3249
     },
     "2.3": {
       "title": "Chapter 2.3",
@@ -68,7 +68,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": false,
-      "views": 1986
+      "views": 2022
     },
     "2.4": {
       "title": "Chapter 2.4",
@@ -78,7 +78,7 @@
       "totalPages": 10,
       "pages": 10,
       "locked": true,
-      "views": 513
+      "views": 528
     },
     "3.1": {
       "title": "Chapter 3.1",
@@ -88,9 +88,9 @@
       "totalPages": 12,
       "pages": 12,
       "locked": true,
-      "views": 10
+      "views": 19
     }
   },
-  "lastUpdated": "2026-03-06T17:11:05.847Z",
+  "lastUpdated": "2026-03-06T19:01:26.760Z",
   "lastChapterUpdate": "2026-03-06T23:08:19+07:00"
 }
